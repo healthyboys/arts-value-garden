@@ -15,7 +15,7 @@ const config: QuartzConfig = {
 	  provider: "plausible", // or "google" or null
 	},
 	locale: "en-US",
-	baseUrl: "yourgithubusername.github.io/arts-value-garden",
+	baseUrl: "healthyboys.github.io/arts-value-garden",
 	ignorePatterns: ["private", "templates"],
 	defaultDateType: "modified",
 	theme: {
